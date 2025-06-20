@@ -17,7 +17,8 @@ This project contains three Jupyter notebooks that showcase different interactiv
    venv\Scripts\activate     # on Windows
    ```
 2. **Start Jupyter Notebook**:
-```jupyter notebook
+```bash
+jupyter notebook
 ```
 Open and run each notebook in your preferred order.
 At the end of each notebook, you'll find an interactive visualization.
