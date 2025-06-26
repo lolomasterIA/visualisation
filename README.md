@@ -20,10 +20,12 @@ The `dpt2020.csv` is dataset of French baby names.
 
 2. **Start Jupyter Notebook**:
 ```bash
-jupyter notebook
+jupyter notebook mini_project_1_baby_names.ipynb
 ```
-Open and run each notebook in your preferred order.
-At the end of each notebook, you'll find an interactive visualization.
+Open and run the `mini_project_1_baby_names.ipynb` notebook to **view** and **interacte** the three main visualizations.
+
+To explore further, check out each notebook in the `visualisation_notebooks/` folder for a more in-depth analysis.  
+At the end of each notebook, you’ll find an interactive visualization that allows you to experiment with the data and explore custom insights.
 
 ## 1. Name Length by Gender Over Time
 
