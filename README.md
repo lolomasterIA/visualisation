@@ -48,5 +48,3 @@ This animated **map of France** illustrates the **most popular name in each depa
 ![Final Letters of Names](images/visualisation3.gif)
 
 This pair of **pie charts** displays the distribution of **final letters** in baby names, separated by **gender** and **decade**. It provides a clear look into how **gendered naming norms** evolve across time.
-
----
