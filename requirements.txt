@@ -1,0 +1,9 @@
+streamlit
+plotly
+pandas
+numpy
+nbformat
+matplotlib
+altair
+geopandas
+requests
