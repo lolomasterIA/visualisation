@@ -35,7 +35,7 @@ This line chart shows the **average number of letters** in baby names by gender 
 
 ---
 
-## 2. Most Popular Name per Department and Year
+## 2. Most Popular Name per Department and Year and Sex
 
 ![Map of Name Popularity](images/visualisation2.gif)
 
